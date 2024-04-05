@@ -24,7 +24,7 @@ Hi there! I'm **Xie Xin** (谢心), born in 1981, originally from Chengdu, Sichu
 
 ## Research Results
 
-- **Thesis**
+- **Paper**
   1. Research on Social Media Communication Strategy of Tourism Image in Chengdu-Chongqing Region from the Perspective of New Quality Productivity
   2. Design and Implementation of Information Technology System Security Evaluation Platform in Financial Industry
   3. Sequence Mining Technology-Design and Implementation of SPADE Algorithm
