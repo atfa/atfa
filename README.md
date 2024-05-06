@@ -1,6 +1,12 @@
 # 谢心
 
-Hi there! I'm **Xie Xin** (谢心), born in 1981, originally from Chengdu, Sichuabn Province, China. I am an assistant professor of computer science at Neusoft University in Chengdu, specializing in the combination of artificial intelligence and economics and finance.
+Hi there! I'm **XIN XIE**, born in 1981, hailing from the vibrant city of Chengdu, Sichuan Province, China. As an accomplished professional, I hold the esteemed position of Assistant Professor in Computer Science at Neusoft University, Chengdu, where my academic focus converges at the forefront of integrating artificial intelligence with the intricate domains of economics and finance.
+
+My career narrative is adorned with a wealth of interdisciplinary experiences garnered over two decades. I have honed my expertise in steering technology strategies and business operations within the echelons of both state-owned and private Fortune Global 500 financial institutions, in roles encompassing mid-level business and technical management. Additionally, my tenure at a large-scale public welfare institution in a vice-provincial region has seen me excel in both technical and business management capacities.
+
+My research and professional pursuits are underpinned by a deep dive into the fusion of AI with various industries, with an emphasis on Financial Intelligence Integration, Smart Governance Solutions, and Market & Marketing Analytics empowered by AI. I am particularly adept at navigating the rapid assimilation of emerging technologies across sectors, formulating standards, and conducting efficacy assessments that drive operational excellence and informed policy-making.
+
+With a proven track record in facilitating technology's transformative impact on diverse sectors, I bring to the table a unique blend of academic rigor and real-world application, fostering a vision for AI-driven innovation that transcends traditional disciplinary boundaries.
 
 ## Education
 
@@ -14,6 +20,15 @@ Hi there! I'm **Xie Xin** (谢心), born in 1981, originally from Chengdu, Sichu
   - Department of Computer Science
   - Graduation Year: 2003
 
+## Professional Memberships & Recognition
+
+- **Technical Committee Member**
+  - _The 7th International Conference on Artificial Intelligence and Big Data (ICAIBD 2024)_
+  - A prestigious role acknowledging my academic contributions and expertise in AI and Big Data.
+
+- **IEEE Membership**
+  - Recognized as a Member in good standing through December 2024, reflecting my dedication to advancing technology on both personal and professional fronts.
+
 ## Professional Experience
 
 - **Faculty Member**
@@ -24,10 +39,11 @@ Hi there! I'm **Xie Xin** (谢心), born in 1981, originally from Chengdu, Sichu
 
 ## Research Results
 
-- **Paper**
-  1. Research on Social Media Communication Strategy of Tourism Image in Chengdu-Chongqing Region from the Perspective of New Quality Productivity
-  2. Design and Implementation of Information Technology System Security Evaluation Platform in Financial Industry
-  3. Sequence Mining Technology-Design and Implementation of SPADE Algorithm
+- **Thesis**
+  1. Deep Learning Artificial Intelligence for Single Photon Emission Computed Tomography-A Comprehensive Overview and Future Perspectives
+  2. Artificial Intelligence in Mitigating Financial Crimes and Managing Risks - An In-Depth Survey
+  3. Design and Implementation of Information Technology System Security Evaluation Platform in Financial Industry
+  4. Sequence Mining Technology-Design and Implementation of SPADE Algorithm
 
 - **Selected Blogs**
   1. Artificial intelligence technology changes the retail business of commercial banks
