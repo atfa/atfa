@@ -1,4 +1,4 @@
-# 谢心
+# XIN XIE
 
 Hi there! I'm **XIN XIE**, born in 1981, hailing from the vibrant city of Chengdu, Sichuan Province, China. As an accomplished professional, I hold the esteemed position of Assistant Professor in Computer Science at Neusoft University, Chengdu, where my academic focus converges at the forefront of integrating artificial intelligence with the intricate domains of economics and finance.
 
@@ -22,12 +22,16 @@ With a proven track record in facilitating technology's transformative impact on
 
 ## Professional Memberships & Recognition
 
-- **Technical Committee Member**
+- **IEEE Membership**
+  - Recognized as a Member in good standing through December 2024, reflecting my dedication to advancing technology on both personal and professional fronts.
+
+- **ICAIBD 2024 Technical Committee Member**
   - _The 7th International Conference on Artificial Intelligence and Big Data (ICAIBD 2024)_
   - A prestigious role acknowledging my academic contributions and expertise in AI and Big Data.
 
-- **IEEE Membership**
-  - Recognized as a Member in good standing through December 2024, reflecting my dedication to advancing technology on both personal and professional fronts.
+- **Session Chair of Machine Learning and Image Modeling in Image Processing on ICAIBD 2024**
+  - _The 7th International Conference on Artificial Intelligence and Big Data (ICAIBD 2024)_
+  - A prestigious role acknowledging my academic contributions and expertise in AI and Big Data.
 
 ## Professional Experience
 
@@ -41,9 +45,8 @@ With a proven track record in facilitating technology's transformative impact on
 
 - **Thesis**
   1. Deep Learning Artificial Intelligence for Single Photon Emission Computed Tomography-A Comprehensive Overview and Future Perspectives
-  2. Artificial Intelligence in Mitigating Financial Crimes and Managing Risks - An In-Depth Survey
-  3. Design and Implementation of Information Technology System Security Evaluation Platform in Financial Industry
-  4. Sequence Mining Technology-Design and Implementation of SPADE Algorithm
+  2. Design and Implementation of Information Technology System Security Evaluation Platform in Financial Industry
+  3. Sequence Mining Technology-Design and Implementation of SPADE Algorithm
 
 - **Selected Blogs**
   1. Artificial intelligence technology changes the retail business of commercial banks
@@ -51,6 +54,7 @@ With a proven track record in facilitating technology's transformative impact on
   3. Asset Allocation Principles in the Age of Global Tax Transparency
   4. The Enlightenment of Quantitative Trading on Household Asset Allocation
   5. Enlightenment of System Usability Practice in Software Engineering to Asset Allocation Risk Control
+  6. Artificial Intelligence in Mitigating Financial Crimes and Managing Risks - An In-Depth Survey
 
 ## Research Interests
 
@@ -63,3 +67,4 @@ With a proven track record in facilitating technology's transformative impact on
 ## Contact & Social
 
 - **Email**: xiexin@nsu.edu.cn
+- **Email**: atfa.kris@gmail.com
