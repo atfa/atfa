@@ -44,9 +44,11 @@ With a proven track record in facilitating technology's transformative impact on
 ## Research Results
 
 - **Thesis**
-  1. Deep Learning Artificial Intelligence for Single Photon Emission Computed Tomography-A Comprehensive Overview and Future Perspectives
-  2. Design and Implementation of Information Technology System Security Evaluation Platform in Financial Industry
-  3. Sequence Mining Technology-Design and Implementation of SPADE Algorithm
+  1. AI-Driven Optimization of Insurance Sales Strategies: Challenges and Opportunities in China's Aging Society
+  2. Large Language Models Enhanced Client Simulation and Feedback System for Insurance Advisors
+  3. Deep Learning Artificial Intelligence for Single Photon Emission Computed Tomography-A Comprehensive Overview and Future Perspectives
+  4. Design and Implementation of Information Technology System Security Evaluation Platform in Financial Industry
+  5. Sequence Mining Technology-Design and Implementation of SPADE Algorithm
 
 - **Selected Blogs**
   1. Artificial intelligence technology changes the retail business of commercial banks
