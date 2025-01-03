@@ -33,6 +33,10 @@ With a proven track record in facilitating technology's transformative impact on
   - _The 7th International Conference on Artificial Intelligence and Big Data (ICAIBD 2024)_
   - A prestigious role acknowledging my academic contributions and expertise in AI and Big Data.
 
+- **Session Chair of Session 3 on CAIT 2024**
+  - _2024 5th International Conference on Computers and Artificial Intelligence Technology (ICAIBD 2024)_
+  - A prestigious role acknowledging my academic contributions and expertise in Computers and Artificial Intelligence Technology.
+  
 ## Professional Experience
 
 - **Faculty Member**
@@ -44,11 +48,12 @@ With a proven track record in facilitating technology's transformative impact on
 ## Research Results
 
 - **Thesis**
-  1. AI-Driven Optimization of Insurance Sales Strategies: Challenges and Opportunities in China's Aging Society
-  2. Large Language Models Enhanced Client Simulation and Feedback System for Insurance Advisors
-  3. Deep Learning Artificial Intelligence for Single Photon Emission Computed Tomography-A Comprehensive Overview and Future Perspectives
-  4. Design and Implementation of Information Technology System Security Evaluation Platform in Financial Industry
-  5. Sequence Mining Technology-Design and Implementation of SPADE Algorithm
+  1. Multi-Modal Training System for Customer Service Representatives Using Large Language Models
+  2. AI-Driven Optimization of Insurance Sales Strategies: Challenges and Opportunities in China's Aging Society
+  3. Large Language Models Enhanced Client Simulation and Feedback System for Insurance Advisors
+  4. Deep Learning Artificial Intelligence for Single Photon Emission Computed Tomography-A Comprehensive Overview and Future Perspectives
+  5. Design and Implementation of Information Technology System Security Evaluation Platform in Financial Industry
+  6. Sequence Mining Technology-Design and Implementation of SPADE Algorithm
 
 - **Selected Blogs**
   1. Artificial intelligence technology changes the retail business of commercial banks
