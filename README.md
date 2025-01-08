@@ -34,7 +34,7 @@ With a proven track record in facilitating technology's transformative impact on
   - A prestigious role acknowledging my academic contributions and expertise in AI and Big Data.
 
 - **Session Chair of Session 3 on CAIT 2024**
-  - _2024 5th International Conference on Computers and Artificial Intelligence Technology (ICAIBD 2024)_
+  - _2024 5th International Conference on Computers and Artificial Intelligence Technology (CAIT 2024)_
   - A prestigious role acknowledging my academic contributions and expertise in Computers and Artificial Intelligence Technology.
   
 ## Professional Experience
