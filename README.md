@@ -25,8 +25,9 @@ With a proven track record in facilitating technology's transformative impact on
 - **IEEE Membership**
   - Recognized as a Member in good standing through December 2024, reflecting my dedication to advancing technology on both personal and professional fronts.
 
-- **ICAIBD 2024 Technical Committee Member**
+- **ICAIBD Technical Committee Member**
   - _The 7th International Conference on Artificial Intelligence and Big Data (ICAIBD 2024)_
+  - _The 8th International Conference on Artificial Intelligence and Big Data (ICAIBD 2024)_
   - A prestigious role acknowledging my academic contributions and expertise in AI and Big Data.
 
 - **Session Chair of Machine Learning and Image Modeling in Image Processing on ICAIBD 2024**
