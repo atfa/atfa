@@ -30,11 +30,14 @@ With a proven track record in facilitating technology's transformative impact on
   - _The 8th International Conference on Artificial Intelligence and Big Data (ICAIBD 2025)_
   - _International Symposium on Innovation and Technology Management (ISITM 2025)_
 
-- **Session Chair of Machine Learning and Image Modeling in Image Processing on ICAIBD 2024**
+- **Session Chair**
   - _The 7th International Conference on Artificial Intelligence and Big Data (ICAIBD 2024)_
   - _2024 5th International Conference on Computers and Artificial Intelligence Technology (CAIT 2024)_
   - _The 8th International Conference on Artificial Intelligence and Big Data (ICAIBD 2025)_
-  
+
+- **EXCELLENT ORAL PRESENTATION**
+  - _2025 the 14th International Conference on Educational and Information Technology (ICEIT 2025)_
+     
 ## Professional Experience
 
 - **Faculty Member**
