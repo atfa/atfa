@@ -23,7 +23,7 @@ With a proven track record in facilitating technology's transformative impact on
 ## Professional Memberships & Recognition
 
 - **IEEE Membership**
-  - Recognized as a Member in good standing through December 2024, reflecting my dedication to advancing technology on both personal and professional fronts.
+  - Recognized as a Member in good standing through December 2025, reflecting my dedication to advancing technology on both personal and professional fronts.
 
 - **Technical Committee Member**
   - _The 7th International Conference on Artificial Intelligence and Big Data (ICAIBD 2024)_
